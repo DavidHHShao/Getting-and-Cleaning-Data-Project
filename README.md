@@ -21,7 +21,7 @@ You should create one R script called run_analysis.R that does the following.
    of each variable for each activity and each subject.
 
 ##Tools used to produce this project
-This project is built by knirt package instllled on RStudio with RMD format (Knit HTML)
+This project is built by `knirt` package instllled on RStudio with RMD (R Markdown) format.
 
 The  `run_analysis.md` and `codebook.md` files will be  automatically  produced by `run_analysis.Rmd` 
 
