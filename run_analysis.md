@@ -1,6 +1,7 @@
 
 #Getting and Cleaning Data Course Project
-========================
+Author: David Hongao Shao
+-----------------------------------------
 **Last updated 2014-10-26 13:41:30 using R version 3.1.1 (2014-07-10).**
 
 ##Instructions for project
