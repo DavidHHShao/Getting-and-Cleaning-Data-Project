@@ -27,7 +27,7 @@ You should create one R script called run_analysis.R that does the following.
 
 ##Steps to produce this project
 
-- Plsease see the details in `run_analysis.md` and `codebook.md`(  or`run_analysis.Rmd` and `codebook.Rmd`).
+- Plsease see the details in `run_analysis.md` and `codebook.md`.
 
 - Those files  contain the instructions and steps with R code embedded  to produce this project.
 
