@@ -1,4 +1,8 @@
-Codebook
+---
+title: "Codebook"
+date: "October 26, 2014"
+output: html_document
+---
 ========
 Codebook was generated on `r as.character(Sys.time())` during the same process that generated the dataset. See `run_analysis.md` or `run_analysis.html` for details on dataset creation.
 
@@ -137,5 +141,9 @@ The set of variables that were estimated from these signals are:
 str(Data2)
 ```
 
-
+##Dataset summary
+-----------------
+```{r}
+summary(Data2)
+```
 
