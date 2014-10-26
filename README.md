@@ -21,19 +21,19 @@ You should create one R script called run_analysis.R that does the following.
    of each variable for each activity and each subject.
 
 ##Tools used to produce this project
-This project is built by `knirt` package instllled on RStudio with RMD (R Markdown) format.
+- This project is built by `knirt` package instllled on RStudio with RMD (R Markdown) format.
 
-The  `run_analysis.md` and `codebook.md` files will be  automatically  produced by `run_analysis.Rmd` 
+- The  `run_analysis.md` and `codebook.md` files will be  automatically  produced by `run_analysis.Rmd` 
 
 ##Steps to produce this project
 
-Plsease see the details in `run_analysis.md` and `codebook.md`(  or`run_analysis.Rmd` and `codebook.Rmd`).
+- Plsease see the details in `run_analysis.md` and `codebook.md`(  or`run_analysis.Rmd` and `codebook.Rmd`).
 
-Those files  contain the instructions and steps with R code embedded  to produce this project.
+- Those files  contain the instructions and steps with R code embedded  to produce this project.
 
-The final tidy data is in `tidydata.txt`. It can be loaded by `Data<-read.table("tidydata.txt", sep=" ", head=TRUE)`
+- The final tidy data is in `tidydata.txt`. It can be loaded by `Data<-read.table("tidydata.txt", sep=" ", head=TRUE)`
 
-The codebok is in `codebook.md` . It gives the descriptions of the variables in the data frame prouduced by this project.
+- The codebok is in `codebook.md` . It gives the descriptions of the variables in the data frame prouduced by this project.
 
 ##Steps to reproduce this project
 
